@@ -2,7 +2,7 @@
 const CONFIG = {
     // Apify Configuration
     APIFY: {
-        TOKEN: 'YOUR_APIFY_TOKEN_HERE', // Replace with your actual Apify token
+        TOKEN: 'apify_api_xkbX2WGuD4eTHNO4krJxb8ThdOOUGz3oNJBB', // Replace with your actual Apify token
         ACTOR_ID: 'apify/instagram-scraper',
         BASE_URL: 'https://api.apify.com/v2',
     },
